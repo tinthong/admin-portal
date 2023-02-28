@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const url = `https://be.thongtinbaohiem.club/api/users`
-const urlDelete = `https://be.thongtinbaohiem.club/api/delete`
+const url = `http://be.thongtinbaohiem.club/api/users`
+const urlDelete = `http://be.thongtinbaohiem.club/api/delete`
 
 
 export async function getData() {
